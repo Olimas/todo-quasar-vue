@@ -1,7 +1,5 @@
 # Quasar Todo (quasar-todo)
-```
 https://olimas.github.io/todo-quasar-vue/
-```
 
 ## install
 ```
